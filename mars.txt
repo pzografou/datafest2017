@@ -3,3 +3,5 @@ It is cold and dry, but everything is my favorite color.
 
 New line
 New line
+
+Does not show red symbols for changes
